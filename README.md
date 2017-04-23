@@ -17,7 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-=======
 
 
-[How it looks]: https://raw.githubusercontent.com/MadCoded/vue/master/src/assets/shot.png "Screenshot"
+
+![How it looks](https://raw.githubusercontent.com/MadCoded/vue/master/src/assets/shot.png "How it looks")
