@@ -18,3 +18,6 @@ npm run build
 npm run build --report
 ```
 =======
+
+
+[How it looks]: https://raw.githubusercontent.com/MadCoded/vue/master/src/assets/shot.png "Screenshot"

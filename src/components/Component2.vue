@@ -1,8 +1,8 @@
 <template>
     <div>
-       <span style="color:violet" class=bold> Dynamic </span>  
+       <span style="color:red" class=bold> Dynamic </span>  
         <br>
-        <span> {{ testData }} </span>
+        <span class=bold> {{ testData }} </span>
         <ul>
             <li v-for="user in users">
                 {{user.name}} ({{user.username}})

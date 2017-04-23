@@ -10,7 +10,7 @@ export default{
     name: "Component3",
     data(){
         return{
-            com3Data : "Compoenent3 Nested"
+            com3Data : "Component3 Nested"
         }
     }
 }
